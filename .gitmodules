@@ -1,6 +1,4 @@
-[submodule "service-kong/service-kong"]
-	path = service-kong/service-kong
-	url = https://github.com/Mashape/docker-kong
+
 [submodule "service-kong/docker-kong"]
 	path = service-kong/docker-kong
 	url = https://github.com/Mashape/docker-kong
