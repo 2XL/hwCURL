@@ -1,0 +1,13 @@
+{
+  "api_id": "f6224089-5ff6-4652-85da-0d983309cdf8",
+  "config": {
+    "hide_credentials": false,
+    "key_names": [
+      "apikey"
+    ]
+  },
+  "created_at": 1478462264000,
+  "enabled": true,
+  "id": "3c8075fd-cedf-47c5-ab3d-423e70d3a85c",
+  "name": "key-auth"
+}

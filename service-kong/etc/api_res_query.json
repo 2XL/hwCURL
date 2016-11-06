@@ -1,0 +1,36 @@
+{
+  "bodySize": 0,
+  "clientIPAddress": "172.17.0.4",
+  "cookies": {},
+  "headers": {
+    "accept": "*/*",
+    "accept-encoding": "gzip",
+    "cf-connecting-ip": "92.190.19.155",
+    "cf-ray": "2fdafa3b276a5498-MAD",
+    "cf-visitor": "{\"scheme\":\"http\"}",
+    "connect-time": "1",
+    "connection": "close",
+    "host": "mockbin.org",
+    "total-route-time": "0",
+    "user-agent": "HTTPie/0.9.2",
+    "via": "1.1 vegur",
+    "x-forwarded-for": "172.17.0.4,92.190.19.155, 188.114.110.195",
+    "x-forwarded-host": "api.demo.com",
+    "x-forwarded-port": "80",
+    "x-forwarded-proto": "http",
+    "x-request-id": "1afbf72c-ee1b-4971-8b0d-385251ccb5b3",
+    "x-request-start": "1478460809693"
+  },
+  "headersSize": 513,
+  "httpVersion": "HTTP/1.1",
+  "method": "GET",
+  "postData": {
+    "mimeType": "application/octet-stream",
+    "params": [],
+    "text": ""
+  },
+  "queryString": {},
+  "startedDateTime": "2016-11-06T19:33:29.697Z",
+  "url": "http://api.demo.com/request/"
+}
+

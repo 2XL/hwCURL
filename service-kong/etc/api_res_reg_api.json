@@ -1,0 +1,20 @@
+[
+  {
+    "created_at": 1478459749000,
+    "id": "c15b8b40-e78c-4a98-a722-72bac3a78406",
+    "name": "test",
+    "preserve_host": false,
+    "request_path": "/api/test",
+    "strip_request_path": false,
+    "upstream_url": "http://localhost:5000/"
+  },
+  {
+    "created_at": 1478461063000,
+    "id": "f6224089-5ff6-4652-85da-0d983309cdf8",
+    "name": "torrentjs",
+    "preserve_host": false,
+    "request_host": "torrentjs",
+    "strip_request_path": false,
+    "upstream_url": "http://torrentjs.com"
+  }
+]
